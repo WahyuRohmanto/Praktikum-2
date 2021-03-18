@@ -11,7 +11,7 @@ $nilai_tugas = $_GET['nilai_tugas'];
  echo '<br/>Nilai UTS : '.$nilai_uts;
  echo '<br/>Nilai UAS : '.$nilai_uas;
  echo '<br/>Nilai Tugas Praktikum : '.    $nilai_tugas;
- $ns1 = ['id'=>1,'nama'=>'ekaameliaa','matkul'=>'basis data 1','nilai_uts'=>80,'nilai_uas'=>84,'nilai_tugas'=>78];
+ $ns1 = ['id'=>1,'nama'=>'Jambrong','matkul'=>'basis data 1','nilai_uts'=>80,'nilai_uas'=>84,'nilai_tugas'=>78];
  $ns2 = ['id'=>2,'nama'=>'01121','matkul'=>'pemrograman web','nilai_uts'=>70,'nilai_uas'=>50,'nilai_tugas'=>68];
  $ns3 = ['id'=>3,'nama'=>'01130','matkul'=>'basis data 1','nilai_uts'=>60,'nilai_uas'=>86,'nilai_tugas'=>70];
  $ns4 = ['id'=>4,'nama'=>'01134','matkul'=>'basis data 1','nilai_uts'=>90,'nilai_uas'=>91,'nilai_tugas'=>82];
